@@ -1,4 +1,13 @@
-<content version="100">
+<content version="101">
+   <item>
+      <name>Android Studio Flamingo (2022.2.1) Canary 2</name>
+      <build>AI-222.4167.29.2221.9093980</build>
+      <version>2022.2.1.2</version>
+      <channel>Canary</channel>
+      <platformBuild>222.4167.29</platformBuild>
+      <platformVersion>2022.2.2</platformVersion>
+      <date>September 27, 2022</date>
+   </item>
    <item>
       <name>Android Studio Flamingo (2022.2.1) Canary 1</name>
       <build>AI-222.3739.54.2221.9043926</build>
