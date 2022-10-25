@@ -1,4 +1,22 @@
-<content version="106">
+<content version="107">
+   <item>
+      <name>Android Studio Flamingo (2022.2.1) Canary 6</name>
+      <build>AI-222.4345.14.2221.9189903</build>
+      <version>2022.2.1.6</version>
+      <channel>Canary</channel>
+      <platformBuild>222.4345.14</platformBuild>
+      <platformVersion>2022.2.3</platformVersion>
+      <date>October 24, 2022</date>
+   </item>
+   <item>
+      <name>Android Studio Electric Eel (2022.1.1) Beta 3</name>
+      <build>AI-221.6008.13.2211.9173235</build>
+      <version>2022.1.1.13</version>
+      <channel>Beta</channel>
+      <platformBuild>221.6008.13</platformBuild>
+      <platformVersion>2022.1.4</platformVersion>
+      <date>October 24, 2022</date>
+   </item>
    <item>
       <name>Android Studio Flamingo (2022.2.1) Canary 5</name>
       <build>AI-222.4345.14.2221.9178080</build>
